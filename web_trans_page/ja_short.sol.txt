@@ -1,0 +1,8 @@
+原発が要因かは確認できず
+원전이 요인인지는 확인 안돼
+
+原発/NCC が/PS 要因/NCC か/PA は/PC 確認/NCS でき/VD ず/VX
+원전/PROPERNOUN 이/JOSA 요인/NOUN 인지/EOMI 는/JOSA 확인/NOUN 안돼/NORMALVERB NULL/EOMI
+
+from j_ref.tagged.txt 2, k_ref.tagged.txt 2
+
